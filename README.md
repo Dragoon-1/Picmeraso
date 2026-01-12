@@ -27,12 +27,17 @@
 ## 🧠 What is Image Metadata?
 
 Image metadata is hidden information stored inside images, such as:
+
 - 📍 GPS location
+  
 - 📷 Camera model
+  
 - 🕒 Date and time
+  
 - 🧑 Author or software details
 
 When images are shared online, this data can **leak personal information**.  
+
 **PicMeraso helps you inspect and remove this data safely.**
 
 ---
@@ -80,10 +85,15 @@ ExifRead – Metadata extraction
 Piexif – Metadata removal
 
 📦 Installation & Run
+
 git clone https://github.com/Dragoon-1/Picmeraso.git
+
 cd PicMeraso
+
 pip install -r requirements.txt
+
 python main.py
+
 
 🔐 Privacy & Safety
 
