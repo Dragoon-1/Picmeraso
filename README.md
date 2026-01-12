@@ -1,4 +1,4 @@
-# 🖼️ PicMeraso  
+# 📸 PicMeraso  
 ### Image Metadata Viewer & Remover (Python)
 <p align="center">
   <img src="assets/banner.png" alt="PicMeraso Banner" width="600">
