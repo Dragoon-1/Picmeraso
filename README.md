@@ -3,11 +3,11 @@
 <p align="center">
   <img src="assets/banner.png" alt="PicMeraso Banner" width="600">
 </p>
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+</p>
 > **PicMeraso** is a Python-based desktop application that allows users to **view and remove image metadata (EXIF data)** instantly, without saving or creating a new image file.
 
 ---
