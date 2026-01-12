@@ -40,11 +40,17 @@ When images are shared online, this data can **leak personal information**.
 ## 🖥️ Project Structure
 
 PicMeraso/
+
 │
+
 ├── picmeraso.py              # Main application logic + ui design
+
 ├── assets/              # Screenshots / GIFs 
+
 ├── requirements.txt     # Required Python libraries
+
 └── README.md            # Project documentation
+
 
 
 🚀 How It Works
@@ -53,13 +59,14 @@ User selects an image file
 
 Application reads embedded metadata
 
-Metadata is displayed in the UI
+User clicks Show Metadata and metadata tags and values are shown
 
 User clicks Remove Metadata
 
 Metadata is cleared in memory
 
 🔹 No duplicate image is created
+
 🔹 No file is saved automatically
 
 🛠️ Tech Stack
@@ -68,14 +75,12 @@ Python 3
 
 PyQt6 – Graphical User Interface
 
-Pillow – Image handling
-
 ExifRead – Metadata extraction
 
 Piexif – Metadata removal
 
 📦 Installation & Run
-git clone https://github.com/your-username/PicMeraso.git
+git clone https://github.com/Dragoon-1/Picmeraso.git
 cd PicMeraso
 pip install -r requirements.txt
 python main.py
@@ -90,47 +95,4 @@ python main.py
 
 🚫 No user data stored or shared
 
-PicMeraso is designed with privacy-first principles🚀 How It Works
-
-User selects an image file
-
-Application reads embedded metadata
-
-Metadata is displayed in the UI
-
-User clicks Remove Metadata
-
-Metadata is cleared in memory
-
-🔹 No duplicate image is created
-🔹 No file is saved automatically
-
-🛠️ Tech Stack
-
-Python 3
-
-PyQt6 – Graphical User Interface
-
-Pillow – Image handling
-
-ExifRead – Metadata extraction
-
-Piexif – Metadata removal
-
-📦 Installation & Run
-git clone https://github.com/your-username/PicMeraso.git
-cd PicMeraso
-pip install -r requirements.txt
-python main.py
-
-🔐 Privacy & Safety
-
-🔒 Works completely offline
-
-📁 No image copies are created
-
-🧠 Metadata handled only in memory
-
-🚫 No user data stored or shared
-
-PicMeraso is designed with privacy-first principles
+PicMeraso is designed with privacy-first principles🚀 
