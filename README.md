@@ -92,7 +92,7 @@ cd PicMeraso
 
 pip install -r requirements.txt
 
-python main.py
+python picmeraso.py
 
 
 🔐 Privacy & Safety
